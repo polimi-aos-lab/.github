@@ -1,1 +1,1 @@
-# .github
+Welcome to the Advanced Operating Systems Lab at Politecnico di Milano. This organization serves as a platform for the Polimi's AOS course lab materials and as a showcase of the innovative thesis projects conducted within our lab. 
